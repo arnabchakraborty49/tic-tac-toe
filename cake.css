@@ -1,0 +1,38 @@
+.card-img-top {
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    border-radius: 10%;
+    border-color: black;
+}
+.any{
+    
+    gap: 5px;
+    border-color: black;
+    justify-content: center;
+}
+/*.carousel-item img {
+    width: 100%;
+    height: 400px; /* Adjust this value to your desired height */
+    .carousel-item img{
+    object-fit: cover; /* Ensures the image fills the container while keeping proportions */
+    }
+.card{
+    margin-top: 40px;
+    background-color: rgb(232, 228, 228);
+}
+.circle-img{
+    border-radius: 50%;
+}
+.img{
+    object-fit: cover;
+    border-radius: 50%;
+}
+.container{
+    justify-content: center;
+}
+.text{
+    justify-content: center;
+    margin-top: 40px;
+}
